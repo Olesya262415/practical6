@@ -4,7 +4,7 @@ namespace практическая_6
 {
     class Program
     {
-        public static void PrintSeries(ISeries series, int count)
+        public static void PrintSeries(ISeries series, int count) 
         {
             for (int i = 0; i < count; i++)
             {
